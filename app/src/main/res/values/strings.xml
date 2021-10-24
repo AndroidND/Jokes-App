@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="android_lib_button">Get joke from Android library.</string>
+    <string name="android_gcloud_button_description">Get joke from Android GCloud.</string>
+</resources>
